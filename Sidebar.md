@@ -1,4 +1,4 @@
 SenseCraft Documentation
 ---
-[[README|Home]]  
+[[../|Home]]  
 [[first meeting]]  

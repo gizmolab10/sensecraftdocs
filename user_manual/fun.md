@@ -1,7 +1,5 @@
 # Where's the Fun in That?
 
-<script> $(document).ready(function () { $("table").attr("class","table table-condensed table-bordered"); }); </script>
-
 [[sensecraft]] must at its core be **Fun** to play. Its [[rule]]s and its [[conversational literacy]] skills are challenging and rather dry, which we shall need to balance with ample **Fun**. Here are some miniature games which anyone can play, even in real life
 
 ### Emotions

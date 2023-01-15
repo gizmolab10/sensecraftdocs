@@ -1,12 +1,5 @@
-title: What are the Basic SenseCraft Skills?
-save_as: jonathan/skill.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# What are the Basic SenseCraft Skills?
 
-## Skills
 from [@jackpark](https://topicquests.slack.com/team/U6M625477) we need to create some kind of documentation template, then break down what’s needed into chunks and spread them around. This training is also done by [[guild]]s provide training and are known as a [[community of practice]].
 
 Skill | Explore

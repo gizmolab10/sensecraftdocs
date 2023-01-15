@@ -1,12 +1,4 @@
-title: What are Guild Roles?
-save_as: whatareroles.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-parent1url: whatisguild.html
-parent1title: What is a Guild?
-parent1class: issue
+# What are Guild Roles?
 
 ### Details
 

@@ -1,14 +1,4 @@
-title: What is SenseCraft?
-save_as: whatissensecraft.html
-menulabel:
-menuorder:
-lang: en
-contentclass: content-issue
-parent1url: ./usequests.html
-parent1title: How to use SenseCraft Quests?
-parent1class: issue
-
-![]({static}/images/khub.png){.flr}
+# What is SenseCraft?
 
 ### Details
 
@@ -18,9 +8,6 @@ SenseCraft is fundamentally a Web portal known as a *Knowing Hub* (K-Hub). A K-H
 
 ### Responses
 
-* [What is a K-Hub?](./whatiskhub.html)
-{.issue}
-* [What is a Quest?](./whatisquest.html)
-{.issue}
-* [What is a Guild?](./whatisguild.html)
-{.issue}
+* [[whatiskhub|What is a K-Hub?]]  
+* [[whatisquest|What is a Quest?]]
+* [[whatisguild|What is a Guild?]]  

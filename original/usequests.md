@@ -1,9 +1,4 @@
-title: How to use SenseCraft Quests?
-save_as: usequests.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
+# How to use SenseCraft Quests?
 
 ![]({static}/images/image013.png)
 
@@ -13,7 +8,5 @@ We explore the SenseCraft questing game platform as a Quest itself. Our goal is 
 
 ### Responses
 
-* [What is SenseCraft?](whatissensecraft.html)
-{.issue}
-* [How to use SenseCraft?](howsensecraft.html)
-{.issue}
+* [[whatissensecraft|What is SenseCraft?]]  
+* [[howsensecraft|How to use SenseCraft?]]  
