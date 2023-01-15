@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5145f253c58d12aa",
+            "id": "63d66877f9670be1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/jonathan/level up.md",
+                "file": "pages/aaditya/first meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/jonathan/level up.md",
+                "file": "pages/aaditya/first meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/jonathan/level up.md",
+                "file": "pages/aaditya/first meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/jonathan/level up.md"
+                "file": "pages/aaditya/first meeting.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5145f253c58d12aa",
+  "active": "63d66877f9670be1",
   "lastOpenFiles": [
-    "pages/jonathan/role.md",
-    "pages/jonathan/how do i join a guild.md",
-    "pages/jonathan/guild.md",
-    "README.md",
-    "pages/jonathan/glossary.md",
-    "pages/jonathan/sensecraft.md",
-    "pages/jonathan/rule.md",
-    "pages/jonathan/game move.md",
-    "pages/jonathan/points.md",
-    "pages/jonathan/fun.md"
+    "pages/aaditya/links.md",
+    "pages/aaditya/first meeting.md",
+    "pages/aaditya/action plan.md",
+    "pages/aaditya/architecture.md",
+    "pages/aaditya/proposals.md",
+    "pages/aaditya/onboarding.md",
+    "pages/aaditya/seriously.md",
+    "pages/aaditya/mindmaps.md",
+    "pages/aaditya/first meeting export from Elements.md",
+    "Sidebar.md"
   ]
 }
