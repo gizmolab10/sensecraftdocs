@@ -13,4 +13,4 @@ Space | Visible and Accessible To
 [[role]] | members of the [[guild]] who have this [[role]]
 [[guild]] | all members of the [[guild]]
 Play | all members of the [[quest]]
-Game | all players of [[sensecraft]]
+Game | all players of SenseCraft

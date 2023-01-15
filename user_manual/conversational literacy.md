@@ -2,7 +2,7 @@
 
 SenseQuest strongly encourages civility and conversational literacy, allowing players to accomplish more with more delight and less effort.
 
-Although, in simplest terms, it's just an **etiquette**, [[sensecraft]] is asking a lot from players. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant. It's a **philosophy** as well. An attitude that we are all creating the same single thing, knowing exactly what it is.
+Although, in simplest terms, it's just an **etiquette**, [[../|sensecraft]] is asking a lot from players. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant. It's a **philosophy** as well. An attitude that we are all creating the same single thing, knowing exactly what it is.
 
 ### Listening and talking
 
@@ -30,4 +30,4 @@ We are much more than our passions and skills. We have unique experiences, child
 
 ### Fun with Emotions
 
-It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? [[sensecraft]] assumes all of this is natural and normal and offers a [[fun]] game that directly focuses on this and helps you become masterful.
+It's very easy to weaponize all of this. Ever felt disappointed when someone is behaving uncivil? Does not calling them on it feel upsetting? [[../|sensecraft]] assumes all of this is natural and normal and offers a [[fun]] game that directly focuses on this and helps you become masterful.

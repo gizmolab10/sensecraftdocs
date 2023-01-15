@@ -20,5 +20,5 @@ role draft | others with the author's [[role]]? | yes
 guild draft | everyone in the [[guild]] | yes
 proposed | same, leader or delegate can promote | yes
 submitted | same, moderators can promote | yes
-published | fully public, no more promotions | visible outside [[../|sensecraft]]
+published | fully public, no more promotions | visible outside sensecraft
 

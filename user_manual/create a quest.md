@@ -6,4 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
-A [[quest]] begins by filling out the Create New Quest form. To do this, click on the Settings button (three horizontal lines) at the upper left corner, then click on Create Quests. The input fields are probably self-explanatory. However, [[sensecraft]] works best when your [[quest]] is well-formulated.
+A [[quest]] begins by filling out the Create New Quest form. To do this, click on the Settings button (three horizontal lines) at the upper left corner, then click on Create Quests. The input fields are probably self-explanatory. However, [[../|sensecraft]] works best when your [[quest]] is well-formulated.

@@ -1,10 +1,10 @@
 # Where's the Fun in That?
 
-[[sensecraft]] must at its core be **Fun** to play. Its [[rule]]s and its [[conversational literacy]] skills are challenging and rather dry, which we shall need to balance with ample **Fun**. Here are some miniature games which anyone can play, even in real life
+[[../|sensecraft]] must at its core be **Fun** to play. Its [[rule]]s and its [[conversational literacy]] skills are challenging and rather dry, which we shall need to balance with ample **Fun**. Here are some miniature games which anyone can play, even in real life
 
 ### Emotions
 
-Emotions are notoriously irrational and sometimes misdirecting. Gaining awareness and mastery of emotions is a skill that will come in handy while playing [[sensecraft]] and in real life. Give yourself **rationality** [[points]] for:
+Emotions are notoriously irrational and sometimes misdirecting. Gaining awareness and mastery of emotions is a skill that will come in handy while playing [[../|sensecraft]] and in real life. Give yourself **rationality** [[points]] for:
 
 | give yourself this many points | when you |
 | :---: | --- |
@@ -14,7 +14,7 @@ Emotions are notoriously irrational and sometimes misdirecting. Gaining awarenes
 | 6 | do all of the above for an upset |
 
 <br>
-If you find yourself with lots of rationality points, [[SenseCraft]] can convert them into Game [[Points]] at your request.
+If you find yourself with lots of rationality points, [[../|sensecraft]] can convert them into Game [[Points]] at your request.
 
 ### Needs
 

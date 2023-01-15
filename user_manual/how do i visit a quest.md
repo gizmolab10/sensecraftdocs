@@ -6,4 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
-In any of the places where [[sensecraft]] displays a list of quests, click on the "view" or "admin" link. [[sensecraft]] will show you a representation of the dialog map for the quest.
+In any of the places where [[../|sensecraft]] displays a list of quests, click on the "view" or "admin" link. [[../|sensecraft]] will show you a representation of the dialog map for the quest.

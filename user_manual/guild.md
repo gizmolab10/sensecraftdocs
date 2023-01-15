@@ -6,7 +6,7 @@ Each member of a Guild plays a specific [[role]].
 
 It may come to pass that some Guilds evolve to just ask questions, others to formulate only positions with evidence, and yet others to challenge all [[game move]]s. A Guild which does this or which provides training is known as a [[community of practice]].
 
-In the [[quest]]/Guild/[[k-hub]] model, only Guilds can provide curated Quest results to the [[quest]]’s associated [[k-hub]].
+In the [[quest]]/[[guild]]/[[k-hub]] model, only [[guild]]s can provide curated [[quest]] results to the [[quest]]’s associated [[k-hub]].
 
 Okay then, [[how do i join a guild]]?
 

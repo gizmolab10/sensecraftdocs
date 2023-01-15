@@ -6,4 +6,4 @@ These are provisionally called Learning Guilds.
 
 ## Request for Guidance
 
-As you play, if you need extra insight into, say, [[conversational literacy]], a [[role]] or a [[game move]], find the Community of Practice [[guild]] whose training comes closest and pose a Request for Guidance. The more quickly that that [[guild]] response to your request, the faster yoy can resume your contributions to [[sensecraft]], so such requests probably need to be prioritized and the response process optimized by [[\|sensecraft]].
+As you play, if you need extra insight into, say, [[conversational literacy]], a [[role]] or a [[game move]], find the Community of Practice [[guild]] whose training comes closest and pose a Request for Guidance. The more quickly that that [[guild]] response to your request, the faster yoy can resume your contributions to [[../|sensecraft]], so such requests probably need to be prioritized and the response process optimized by [[../|sensecraft]].
