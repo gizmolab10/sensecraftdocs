@@ -1,3 +1,3 @@
 SenseCraft Documentation
 ---
-[[sensecraft]]  
+[[README|Home]]  
