@@ -1,10 +1,4 @@
-title: Conversation Tree
-save_as: jonathan/k-hub.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# Conversation Tree
 
 [[SenseCraft]] creates _conversation trees_ through [game moves](https://docs.google.com/document/d/1XTk9mKBIIKqWSLdjbwjdcuWo6528HaHPE6NzJ52VEWg/edit#heading=h.wpoed4qh4675) by [[Guild]]s, and stores them in  a **knowing hub** or **k-hub**. The latter is a hierarchal structure of [[Node]]s, in which each [[Node]] connects to one and only one parent [[Node]] (an idea or answer responds to just one question; a pro or con argument responds to just one parent [[Node]]). The k-hub is an historical record of Quests. It is a growing repository of knowledge of significant value to all SenseCraft players.
 

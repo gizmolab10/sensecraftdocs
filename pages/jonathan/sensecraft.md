@@ -1,10 +1,4 @@
-title: What is SenseCraft?
-save_as: jonathan/sensecraft.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug: "define sensecraft"
+# What is SenseCraft?
 
 SenseCraft is a social networking game for solving [[wicked problem]]s and for learning how to best solve them in teams.
 

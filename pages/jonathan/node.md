@@ -1,10 +1,4 @@
-title: What is a Node?
-save_as: jonathan/node.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# What is a Node?
 
 Each Node in the [[K-Hub]] is an idea. Each Node is carefully crafted by [[SenseCraft]] and by players to capture the sense of things at the time. There are four types of node:
 

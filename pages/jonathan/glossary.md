@@ -1,10 +1,4 @@
-title: Glossary
-save_as: jonathan/glossary.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# Glossary
 
 [Copied from](https://docs.google.com/document/d/1XTk9mKBIIKqWSLdjbwjdcuWo6528HaHPE6NzJ52VEWg/edit#)  
 

@@ -1,10 +1,4 @@
-title: What is a Guild?
-save_as: jonathan/guild.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug: "guilds"
+# What is a Guild?
 
 A Guild is a private space for one or more small groups to work together to contribute to a [[Quest]]. Guilds are responsible for organizing these small groups and train them to pursue [[Quest]]s with masterful [[conversational literacy]].
 

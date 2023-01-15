@@ -1,10 +1,4 @@
-title: Conversational literacy
-save_as: jonathan/conversational_literacy.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# Conversational literacy
 
 SenseQuest strongly encourages civility and conversational literacy, allowing players to accomplish more with more delight and less effort.
 

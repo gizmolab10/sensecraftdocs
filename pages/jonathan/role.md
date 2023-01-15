@@ -1,10 +1,4 @@
-title: What are SenseCraft Roles?
-save_as: jonathan/role.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# What are SenseCraft Roles?
 
 A **Role** is a set of rules [[Rule]]s governing which tasks and [[Game Move]]s a player assigned that role can or must perform. New players may need to learn [[Skill]]s in order to adopt a **Role**. They should know what **Role** they want to play before joining a [[Guild]]. Each of these will have its own specialty documentation.
 

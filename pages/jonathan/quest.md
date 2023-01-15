@@ -1,10 +1,4 @@
-title: What is a Quest?
-save_as: jonathan/quest.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug: "define quest"
+# What is a Quest?
 
 A Quest is a *truth-seeking journey* from a [[question]] (an existing [[Node]]) to its answer (a new child [[Node]]). It is a large scale conversation, known as a Dialogue Map, and is recorded in the K-Hub.
 

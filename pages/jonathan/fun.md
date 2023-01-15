@@ -1,10 +1,4 @@
-title: Where's the Fun in That?
-save_as: jonathan/fun.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-slug:
+# Where's the Fun in That?
 
 <script> $(document).ready(function () { $("table").attr("class","table table-condensed table-bordered"); }); </script>
 

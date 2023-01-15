@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/jonathan/level up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/jonathan/level up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "pages/jonathan/level up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "pages/jonathan/level up.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,15 @@
   },
   "active": "5145f253c58d12aa",
   "lastOpenFiles": [
-    "Sidebar.md",
+    "pages/jonathan/role.md",
+    "pages/jonathan/how do i join a guild.md",
+    "pages/jonathan/guild.md",
+    "README.md",
+    "pages/jonathan/glossary.md",
     "pages/jonathan/sensecraft.md",
-    "README.md"
+    "pages/jonathan/rule.md",
+    "pages/jonathan/game move.md",
+    "pages/jonathan/points.md",
+    "pages/jonathan/fun.md"
   ]
 }
