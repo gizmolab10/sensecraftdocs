@@ -2,11 +2,11 @@
 
 <script> $(document).ready(function () { $("table").attr("class","table table-condensed table-bordered"); }); </script>
 
-[[SenseCraft]] must at its core be **Fun** to play. Its [[Rule]]s and its [[Conversational Literacy]] skills are challenging and rather dry, which we shall need to balance with ample **Fun**. Here are some miniature games which anyone can play, even in real life
+[[sensecraft]] must at its core be **Fun** to play. Its [[rule]]s and its [[conversational literacy]] skills are challenging and rather dry, which we shall need to balance with ample **Fun**. Here are some miniature games which anyone can play, even in real life
 
 ### Emotions
 
-Emotions are notoriously irrational and sometimes misdirecting. Gaining awareness and mastery of emotions is a skill that will come in handy while playing [[SenseCraft]] and in real life. Give yourself **rationality** [[Points]] for:
+Emotions are notoriously irrational and sometimes misdirecting. Gaining awareness and mastery of emotions is a skill that will come in handy while playing [[sensecraft]] and in real life. Give yourself **rationality** [[points]] for:
 
 | give yourself this many points | when you |
 | :---: | --- |

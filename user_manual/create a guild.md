@@ -6,4 +6,4 @@ menuorder:
 contentclass: content-issue
 slug:
 
-When you get really good at [[SenseCraft]], you can create a [[Guild]]. This is how to do it.
+When you get really good at [[sensecraft]], you can create a [[guild]]. This is how to do it.

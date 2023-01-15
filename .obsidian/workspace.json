@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/aaditya/links.md",
+                "file": "explore/links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/aaditya/links.md",
+                "file": "explore/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/aaditya/links.md",
+                "file": "explore/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/aaditya/links.md"
+                "file": "explore/links.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d66877f9670be1",
+  "active": "5dd434b1cb107f04",
   "lastOpenFiles": [
-    "pages/aaditya/simplicity.md",
-    "pages/aaditya/first meeting.md",
-    "pages/aaditya/links.md",
+    "explore/simplicity.md",
+    "explore/first meeting.md",
+    "explore/links.md",
     "pages/aaditya/action plan.md",
-    "pages/aaditya/architecture.md",
-    "pages/aaditya/proposals.md",
-    "pages/aaditya/seriously.md",
-    "pages/aaditya/mindmaps.md",
-    "pages/aaditya/first meeting export from Elements.md",
+    "explore/architecture.md",
+    "explore/proposals.md",
+    "explore/seriously.md",
+    "explore/mindmaps.md",
+    "explore/first meeting export from Elements.md",
     "Sidebar.md"
   ]
 }
