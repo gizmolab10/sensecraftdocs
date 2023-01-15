@@ -1,12 +1,4 @@
-title: How to use SenseCraft?
-save_as: howsensecraft.html
-menulabel:
-menuorder:
-lang: en
-contentclass: content-issue
-parent1url: usequests.html
-parent1title: How to use SenseCraft Quests?
-parent1class: issue
+# How to use SenseCraft?
 
 ### Details
 
@@ -16,7 +8,5 @@ Once you are a member, you can join a Guild and then participate in Quests chose
 
 ### Responses
 
-* [How does Sensecraft deal with Authentication?](howauthenticate.html)
-{.issue}
-* [How to Join a Guild?](howjoinguild.html)
-{.issue}
+* [[howauthenticate|How does Sensecraft deal with Authentication?]]  
+* [[howjoinguild|How to Join a Guild?]]  

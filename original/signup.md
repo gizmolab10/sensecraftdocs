@@ -1,12 +1,4 @@
-title: Register an account with Signup
-save_as: signup.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-position
-parent1url: howauthenticate.html
-parent1title: How does Sensecraft deal with Authentication?
-parent1class: issue
+# Register an account with Signup
 
 ![]({static}/images/image031.png)
 
