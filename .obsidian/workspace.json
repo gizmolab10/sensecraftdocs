@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sidebar.md",
+                "file": "user_manual/quest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidebar.md",
+                "file": "user_manual/quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sidebar.md",
+                "file": "user_manual/quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sidebar.md"
+                "file": "user_manual/quest.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "63d66877f9670be1",
   "lastOpenFiles": [
-    ",,.md",
+    "user_manual/node.md",
+    "user_manual/game move.md",
+    "user_manual/role.md",
+    "explore/links.md",
+    "explore/first meeting.md",
     "Sidebar.md",
+    ",,.md",
     "original/usequests.md",
     "original/whatareroles.md",
-    "original/whatisguild.md",
-    "original/whatiskhub.md",
-    "original/whatissensecraft.md",
-    "explore/links.md",
-    "user_manual/sensecraft.md",
-    "user_manual/rule.md"
+    "original/whatisguild.md"
   ]
 }

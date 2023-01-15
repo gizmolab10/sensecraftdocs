@@ -6,7 +6,7 @@ You can join any Quest you like.
 
 These conversations necessarily include debate, which takes the form of Pro and Con arguments and the justifications for those arguments. SenseQuest strongly encourages the best possible justifications for such solutions (e.g., evidence and provenance).
 
-During Quests, [[sensecraft]] encourages and rewards [[conversational literacy]].
+During Quests, [[../|sensecraft]] encourages and rewards [[conversational literacy]].
 
 We anticipate two types of Quests:
 
