@@ -1,7 +1,6 @@
 # Authenticate with Signin
 
-![]({static}/images/image033.png)
-
+![[image033.png]]
 
 ### Details
 

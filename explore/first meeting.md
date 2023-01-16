@@ -4,8 +4,8 @@ Aaditya and I talked for a couple of hours and decided to tackle understanding S
 
 1.  digest and discuss existing corpus of material (gather [[links]] to all of it)
 2.  transfer Matrix material into a permanent separate website (done. this is it)
-	1. for now, I did it manually and that was surprisingly tedious
 3.  develop a bot to export Matrix channel content into curated wiki pages
+	1. I manually curated our Matrix content. surprisingly tedious
 2. vigorously explore various core topics
 
 ## Core Discussion Topics

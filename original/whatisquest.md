@@ -1,12 +1,4 @@
-title: What is a Quest?
-save_as: whatisquest.html
-lang: en
-menulabel:
-menuorder:
-contentclass: content-issue
-parent1url: whatissensecraft.html
-parent1title: What is Sensecraft?
-parent1class: issue
+# What is a Quest?
 
 ### Details
 

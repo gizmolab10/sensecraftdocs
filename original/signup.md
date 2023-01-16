@@ -1,6 +1,6 @@
 # Register an account with Signup
 
-![]({static}/images/image031.png)
+![[image031.png]]
 
 ### Details
 

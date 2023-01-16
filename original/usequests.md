@@ -1,6 +1,6 @@
 # How to use SenseCraft Quests?
 
-![]({static}/images/image013.png)
+![[image013.png]]
 
 ### Details
 
