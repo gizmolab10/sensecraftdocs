@@ -6,15 +6,9 @@ Aaditya and I talked for a couple of hours and decided to tackle understanding S
 2.  transfer Matrix material into a permanent separate website (done. this is it)
 3.  develop a bot to export Matrix channel content into curated wiki pages
 	1. I manually curated our Matrix content. surprisingly tedious
-2. vigorously explore various core topics
-
-## Core Discussion Topics
-
-[[architecture]]  
-[[simplicity]]  
-[[mindmaps]]  
+2. vigorously explore various [[core topics]]
 
 ## original meeting material
 ---
 [link into matrix](https://matrix.to/#/!ZNJvFbkFgbYJBUEJSt:matrix.org/$E3TK-CTSO86d5cFYd3T4vC3PbTcAh0a4Wgy65nBkG-0?via=matrix.org) where we originally wrote all of the above  
-[[first meeting export from Elements]]  
+[[matrix export]]  

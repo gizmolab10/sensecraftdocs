@@ -1,5 +1,5 @@
 SenseCraft Documentation
 ---
-[[../|Current User Manual]]  
+[[../|Current Manual]]  
 [[first meeting]]  
-[[whatissensecraft|Original User Manual]]  
+[[whatissensecraft|Original Manual]]  
