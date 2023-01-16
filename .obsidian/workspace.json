@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore/first meeting.md",
+                "file": "explore/mindmaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore/first meeting.md",
+                "file": "explore/mindmaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explore/first meeting.md",
+                "file": "explore/mindmaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore/first meeting.md"
+                "file": "explore/mindmaps.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "63d66877f9670be1",
   "lastOpenFiles": [
-    "explore/core topics.md",
     "explore/first meeting.md",
     "Sidebar.md",
+    "explore/core topics.md",
     "original/whatissensecraft.md",
     "original/whatisquest.md",
     "original/whatiskhub.md",

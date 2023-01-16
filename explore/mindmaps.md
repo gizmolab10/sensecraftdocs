@@ -1,6 +1,6 @@
 # Mind Maps
 
-I want to rebuild [Seriously](https://sand-74696.medium.com/what-you-get-d565b064be7b) as an app that can be imported into web pages.  
+I want to rebuild [Seriously](https://seriouslythink.com) as an app that can be imported into web pages.  
 
 Aaditya feels that maps have can convey a lot. Important relationships, influences, complexity. He has some mermaid snapshots but I am strugging to import them here.
 
