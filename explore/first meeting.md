@@ -11,7 +11,8 @@ Aaditya and I talked for a couple of hours and decided to tackle understanding S
 	2. [[simplicity]]  
 	3. [[mindmaps]]  
 
-## original meeting material
 ---
+## original meeting material
+
 [link into matrix](https://matrix.to/#/!ZNJvFbkFgbYJBUEJSt:matrix.org/$E3TK-CTSO86d5cFYd3T4vC3PbTcAh0a4Wgy65nBkG-0?via=matrix.org) where we originally wrote all of the above  
 [[matrix export]]  

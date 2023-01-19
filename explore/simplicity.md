@@ -1,3 +1,3 @@
 # Simplest
 
-wicked problem statements, conjectures and critique
+My perception of [[../|sensecraft]] is of rules, roles, quests, guilds, k-hubs, and conversational literacy. However, perhaps these can be considered as mechanical details of something simpler. Is it sufficient to describe it as a game within which people take on a wicked problem and work on it until they create a solution. Working it involves conjectures and critique. The rest of the details give people a way to refine their focus and effort.
