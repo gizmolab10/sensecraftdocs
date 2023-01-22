@@ -5,14 +5,12 @@ Do we have a strategy to follow? If we break down the application into independe
 What is a good list of modules? Here's my attempt.
 
 1. authentication
-2. rules
-3. roles
-4. actions
-6. web services (remote api)
-8. manage tree
-9. scoring
-10. levels
-11. groups
-12. UI
+2. roles, rules & actions
+3. web services for data store
+4. manage tree
+5. scoring & levels
+6. groups, quests & guilds
+7. UI
 	1. forms
 	2. render tree
+	3. help
