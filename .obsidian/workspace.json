@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore/collaboration tools.md",
+                "file": "explore/architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore/collaboration tools.md",
+                "file": "explore/architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explore/collaboration tools.md",
+                "file": "explore/architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore/collaboration tools.md"
+                "file": "explore/architecture.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dd434b1cb107f04",
+  "active": "63d66877f9670be1",
   "lastOpenFiles": [
+    "images/modules.png",
+    "explore/collaboration tools.md",
     "explore/first meeting.md",
     "explore/architecture.md",
     "explore/simplicity.md",
@@ -163,8 +165,6 @@
     "explore/links.md",
     "explore/matrix export.md",
     "README.md",
-    "Sidebar.md",
-    "explore/core topics.md",
-    "original/whatissensecraft.md"
+    "Sidebar.md"
   ]
 }
