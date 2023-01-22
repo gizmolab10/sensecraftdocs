@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "explore/collaboration tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "explore/collaboration tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "explore/collaboration tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore/architecture.md"
+                "file": "explore/collaboration tools.md"
               }
             }
           },
@@ -154,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d66877f9670be1",
+  "active": "5dd434b1cb107f04",
   "lastOpenFiles": [
+    "explore/first meeting.md",
+    "explore/architecture.md",
     "explore/simplicity.md",
     "explore/mindmaps.md",
     "explore/links.md",
-    "explore/architecture.md",
-    "explore/first meeting.md",
     "explore/matrix export.md",
     "README.md",
     "Sidebar.md",

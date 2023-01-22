@@ -10,6 +10,7 @@ Aaditya and I talked for a couple of hours and decided to tackle understanding S
 	1. [[architecture]]  
 	2. [[simplicity]]  
 	3. [[mindmaps]]  
+	4. [[collaboration tools]]  
 
 ---
 ## original meeting material
