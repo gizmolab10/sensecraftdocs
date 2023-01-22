@@ -8,4 +8,4 @@ Aaditya: since these are written in plain text, I can selectively render only ce
 
 [mermaid](https://mermaid.live/)  
 
-In the long run, we both want to be able to integrate hierarchal maps into [[../|SenseCraft]] to allow users to visually convey concepts through simple diagrams. Both GitHub and GitLab already do this in their issues / comments / wikis.
+We see a value in integrating hierarchal maps into [[../|SenseCraft]] to allow users to visually convey concepts through simple diagrams. Both GitHub and GitLab already do this in their issues / comments / wikis.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore/mindmaps.md",
+                "file": "explore/architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore/mindmaps.md",
+                "file": "explore/architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explore/mindmaps.md",
+                "file": "explore/architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore/mindmaps.md"
+                "file": "explore/architecture.md"
               }
+            }
+          },
+          {
+            "id": "2023de8701d23cfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,13 +156,13 @@
   },
   "active": "63d66877f9670be1",
   "lastOpenFiles": [
+    "explore/simplicity.md",
+    "explore/mindmaps.md",
     "explore/links.md",
     "explore/architecture.md",
     "explore/first meeting.md",
     "explore/matrix export.md",
-    "explore/simplicity.md",
     "README.md",
-    "explore/mindmaps.md",
     "Sidebar.md",
     "explore/core topics.md",
     "original/whatissensecraft.md"
