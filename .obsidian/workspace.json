@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63d66877f9670be1",
+            "id": "e7f3f09fb48ae943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "current/role.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "current/role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explore/architecture.md",
+                "file": "current/role.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore/architecture.md"
+                "file": "current/role.md"
               }
             }
           },
@@ -154,17 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d66877f9670be1",
+  "active": "e7f3f09fb48ae943",
   "lastOpenFiles": [
-    "images/delete.png",
+    "current/narrative.md",
+    "current/role.md",
+    "current/game move.md",
+    "README.md",
+    "Sidebar.md",
+    "explore/first meeting.md",
     "explore/architecture.md",
     "explore/collaboration tools.md",
-    "explore/first meeting.md",
+    "images/delete.png",
     "explore/simplicity.md",
     "explore/mindmaps.md",
     "explore/links.md",
-    "explore/matrix export.md",
-    "README.md",
-    "Sidebar.md"
+    "explore/matrix export.md"
   ]
 }

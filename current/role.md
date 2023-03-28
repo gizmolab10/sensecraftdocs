@@ -11,7 +11,7 @@ Role | Responsibility
 Leader | organize the [[guild]], approve all [[game move]]s, invent new Roles
 Researcher | find supportive material
 Philosopher | help plan [[game move]]s and nurture epistemology (see below)
-Scribe | convert [[k-hub]] contents into a [[narrative]]
+Scribe | convert a guild's [[game move]]s into a [[narrative]]
 Critic | 
 Default | learn enough to adopt a role, banned from [[guild]]s
 
