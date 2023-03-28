@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10a16f93dd99471e",
+        "id": "19b14d9f81c27b64",
         "type": "tabs",
         "children": [
           {
-            "id": "be86656bc38c62f4",
+            "id": "3aaeeedc491dc8df",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be86656bc38c62f4",
+  "active": "2023de8701d23cfa",
   "lastOpenFiles": [
     "2023-03-28.md",
     "README.md",
