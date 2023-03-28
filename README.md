@@ -1,6 +1,6 @@
 # What is SenseCraft?
 
-SenseCraft is a social networking game for solving [[wicked problem]]s and for learning how to best solve them in teams.
+SenseCraft is a powerful social networking game for solving [[wicked problem]]s and for learning how to best solve them in teams. It has roots which go way back, to medieval craft guilds.
 
 All game activity is composed of [[game move]]s made during a [[quest]] by a [[guild]]. This activity is recorded as [[node]]s within [[k-hub]]s. These [[game move]]s are at the heart of SenseCraft as they encourage trust, safety, reliability, robustness, effectiveness, and [[fun]], which we call [[conversational literacy]].
 

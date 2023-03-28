@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current/role.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "current/role.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "current/role.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "current/role.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "e7f3f09fb48ae943",
   "lastOpenFiles": [
-    "current/narrative.md",
     "current/role.md",
+    "current/narrative.md",
     "current/game move.md",
     "README.md",
     "Sidebar.md",
